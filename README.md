@@ -102,7 +102,7 @@ Don’t miss out on our limited edition collectibles! These rare items are perfe
 
 ## How to Play
 
-Visit our [How to Play](#) section for a video guide on the essentials, from character creation to mastering your first quests.
+Visit our [How to Play](https://albastini.vercel.app/) section for a video guide on the essentials, from character creation to mastering your first quests.
 
 ## Latest News and Alerts
 
@@ -110,5 +110,5 @@ Stay up-to-date with the latest updates, events, and important announcements. Ch
 
 ## Download Albastini
 
-Ready to start your adventure? [Download Albastini](#) now and join the journey!
+Ready to start your adventure? [Download Albastini](https://albastini.vercel.app/) now and join the journey!
 
